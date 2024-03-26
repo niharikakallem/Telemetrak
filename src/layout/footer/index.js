@@ -64,8 +64,7 @@ const Footer = () => {
 
         <div className='w-full bg-primaryColor text-white' style={{position:'relative',bottom:0,height:60,textAlign:'center',paddingTop:10}}>
                 <div className='mx-auto' style={{ maxWidth: 940}}>
-                   <p style={{margin:0}}>© 2020 - 2024 Life Family Farms TM. All rights reserved.</p>
-                 <p>Developed by Rainy Sun Design</p>
+                   <p style={{margin:0}}>© TelemeTrak,Inc. All rights reserved.</p>
 
                 </div>
             </div>

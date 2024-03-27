@@ -15,8 +15,10 @@ const Home = () => {
   return (
     <>
       <div className="home-section">
+      <div className="overlay"></div>
         <h4 className='heading text-white'>Continuous tracking for unpowered logistics assets</h4>
-        <p className='text-white font-semibold w-[60%] text-lg'>Stop wasting energy and money. Join the TelemeTrak revolution and experience <br /> the power of a smarter, more efficient solar system.</p>
+        <p className='z-[1] text-white font-semibold w-[70%] mt-8 text-[24px] leading-[37px]'>
+          Stop wasting energy and money. Join the TelemeTrak revolution and experience <br /> the power of a smarter, more efficient solar system.</p>
       </div>
       <div className="mx-auto md:max-w-7xl xl:max-w-screen-xl px-12 lg:px-32 p-1 flex justify-center">
         <div>
